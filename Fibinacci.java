@@ -8,9 +8,10 @@ public class Fibinacci{
 	public static void main(String args[]) {
 		
 		//variables for each fibinacci sequence
-		//these show the first two numbers of f(0) and f(1)
+		//these show the first two numbers of f(0), f(1), and f(2)
 		int x=1;
 		int y=1;
+		System.out.println("0");
 		System.out.println(x);
 		System.out.println(y);
 		
